@@ -6,7 +6,6 @@
   <artifactId>com.Kp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-// for testing 
   <name>com.Kp</name>
   <url>http://maven.apache.org</url>
 
